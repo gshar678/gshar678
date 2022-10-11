@@ -1,12 +1,12 @@
 -👋 Hi, I’m Gaurav!<br />
-I’m interested in building dApps, Blockchain, Embedded systems design and, programming.<br />
+I’m interested in building dApps, Blockchain, and, Embedded systems design.<br />
 
 **Work experience / fields of interests:**<br />
 
 Software Development (Java, JavaScript, Solidity etc.) <br />
 Database Management Systems (MySQL, MS.SQL Server, MongoDB) <br />
-Electrical Hardware and Software<br />
-Smart contract auditing<br /><br />
+Electrical Hardware and Software Development<br />
+Smart Contract Auditing<br /><br />
 📫 Contact me at gshar678@gmail.com
 
 <!---

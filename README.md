@@ -1,4 +1,4 @@
--👋 Hi, I’m Gaurav!<br />
+👋 Hi, I’m Gaurav!<br />
 I’m interested in building dApps, Blockchain, and, Embedded systems design.<br />
 
 **Work experience / fields of interests:**<br />

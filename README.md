@@ -6,7 +6,7 @@ I’m interested in building dApps, Blockchain, Embedded systems design and, pro
 Software Development (Java, JavaScript, Solidity etc.) <br />
 Database Management Systems (MySQL, MS.SQL Server, MongoDB) <br />
 Electrical Hardware and Software<br />
-Smart contract auditing<br />
+Smart contract auditing<br /><br />
 📫 Contact me at gshar678@gmail.com
 
 <!---

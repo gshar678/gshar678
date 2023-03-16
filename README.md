@@ -1,12 +1,12 @@
 👋 Hi, I’m Gaurav!<br />
-I’m interested in building dApps, Blockchain, and, Embedded Software development.<br />
+I'm passionate about building dApps, Blockchain, and Embedded Software.<br />
 
 **Work experience / fields of interests:**<br />
-
+My experience and interests include:
 Software Development (Java, JavaScript, Solidity etc.) <br />
 Database Management Systems (MySQL, MS.SQL Server, MongoDB) <br />
 Smart Contract Auditing<br /><br />
-📫 Contact me at gshar678@gmail.com
+📫 You can reach me at gshar678@gmail.com.
 
 <!---
 gshar678/gshar678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

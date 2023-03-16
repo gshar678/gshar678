@@ -2,7 +2,7 @@
 I'm passionate about building dApps, Blockchain, and Embedded Software.<br />
 
 **Work experience / fields of interests:**<br />
-My experience and interests include:
+
 Software Development (Java, JavaScript, Solidity etc.) <br />
 Database Management Systems (MySQL, MS.SQL Server, MongoDB) <br />
 Smart Contract Auditing<br /><br />

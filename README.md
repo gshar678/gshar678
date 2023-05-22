@@ -4,7 +4,7 @@ I'm passionate about building dApps, Blockchain, and Embedded Software.<br />
 **Work experience / fields of interests:**<br />
 
 Software Development (Java, JavaScript, Solidity etc.) <br />
-Database Management Systems (MySQL, MS.SQL Server, MongoDB) <br />
+Database Management Systems (MySQL, MongoDB, Redis) <br />
 Smart Contract Auditing<br /><br />
 📫 You can reach me at gshar678@gmail.com.
 

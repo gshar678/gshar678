@@ -1,7 +1,7 @@
 👋 Hi, I’m Gaurav!<br />
 I'm passionate about building dApps, Blockchain, and Embedded Software.<br />
 
-**Work experience / fields of interests:**<br />
+**Work experience:**<br />
 
 Software Development (Java, JavaScript, Solidity etc.) <br />
 Database Management Systems (MySQL, MongoDB, Redis) <br />
